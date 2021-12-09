@@ -1,4 +1,4 @@
-# Design Resources
+# Curated NFT Resources
 
 A curated list for you to learn everything about NFTs.
 
