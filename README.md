@@ -2,6 +2,13 @@
 
 A curated list for you to learn everything about NFTs.
 
+## Articles
+
+_A list of articles to learn everything about NFTs!_
+
+- [How to Create an NFT: A Guide to Creating a Non-Fungible Token](https://cointelegraph.com/nonfungible-tokens-for-beginners/how-to-create-an-nft): The term nonfungible token (NFT) usually refers to a cryptographic asset on the blockchain that represents...
+
+
 ## Marketplaces
 
 _The best marketplaces for you to create and sell your NFT arts!_
@@ -52,6 +59,8 @@ _Various useful resources on NFTs!_
 - [How to Sell NFT Art for Beginners](https://youtu.be/_fWfPVL6wOA):Learn how to sell your first NFT art using art marketplace Opensea.io. This video will walk you through each step you need to make to list and sell your NFT artwork.
 - [How to Sell Your First NFT: The Easy Way for Digital Artists](https://www.youtube.com/watch?v=CFD_8oDxw1k): NFT guide for regular people who don't know the lingo and just want it as easy as possible. Mint your first NFT with these simple steps plus more tips in a streamlined fashion.
 - [How to Turn Your Art Into an NFT: Step by Step Tutorial](https://www.youtube.com/watch?v=CFD_8oDxw1k): Looking for ways to turn your art into a NFT? In this short step-by-step tutorial I show you how to create and list a non-fungible token on Rarible and Opensea.
+- [Non-Fungible Tokens](https://ethereum.org/en/nft/): NFTs are giving more power to content creators than ever before.
+
 
 ## Blogs
 
@@ -61,3 +70,10 @@ _Various useful resources on NFTs!_
 
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
+- [NiftyKit](https://niftykit.com/): The No-Code Solution For NFT Smart Contracts
+
+## How to Create a Collection
+
+- [How to Create a Full NFT Collection: Step by Step](https://www.nft-innovation.com/post/how-to-create-an-nft-collection-step-by-step): NFTs are booming right now with new artists and pieces coming into the space daily.
+- [How to Create and Mint Your Own NFT: The Complete Guide](https://www.uxsequence.io/learn/article/guide-to-making-your-own-nft/): This guide will set you on your way to creating the next Bored Ape Yacht Club!
+- [How To Make an NFT Collection (10,000 Pieces)](https://peerthroughmedia.com/how-to-make-nft-collection/): I am going to outline my own in-process launch for my 10,000 NFT collection – No Fun Toads – as a case study.
