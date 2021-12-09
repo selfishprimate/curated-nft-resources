@@ -72,7 +72,7 @@ _Various useful resources on NFTs!_
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
 - [NiftyKit](https://niftykit.com/): The No-Code Solution For NFT Smart Contracts
 
-## How to Create a Collection
+## How to Create an NFT Collection?
 
 - [How to Create a Full NFT Collection: Step by Step](https://www.nft-innovation.com/post/how-to-create-an-nft-collection-step-by-step): NFTs are booming right now with new artists and pieces coming into the space daily.
 - [How to Create and Mint Your Own NFT: The Complete Guide](https://www.uxsequence.io/learn/article/guide-to-making-your-own-nft/): This guide will set you on your way to creating the next Bored Ape Yacht Club!
