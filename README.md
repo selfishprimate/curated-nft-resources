@@ -69,6 +69,7 @@ _Various useful resources on NFTs!_
 ## Tools
 
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
+- [Moralis](https://moralis.io/): Join 65,000+ blockchain projects that use Moralis software and APIs to build & scale their dApps without the cost & complexity.
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
 - [NiftyKit](https://niftykit.com/): The No-Code Solution For NFT Smart Contracts
 
