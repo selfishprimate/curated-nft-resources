@@ -33,6 +33,7 @@ _The best YouTube Channels on NFTs!_
 
 - [Gary Vaynerchuk](https://www.youtube.com/c/garyvee): The GARYVEE talks on NFTs.
 - [Meet Dave](https://www.youtube.com/channel/UCT-_CNsc1IVnsDFr5XVdpqg): Exploring out digital world.
+- [Moralis Web3](https://www.youtube.com/c/MoralisWeb3): Awesome video tutorials about NFTs and the blockchain world.
 - [NFT Origin Stories](https://www.youtube.com/channel/UCphV9xj813mt8FXOsouripg): Stories behind the NFT & digital art revolution.
 - [NFT Times](https://www.youtube.com/channel/UCMTMppmOoXmMw-hdbFIVHyA): Videos to help visionary creators make sales and grow a profile.
 - [Open NFT](https://www.youtube.com/channel/UCG_sHFCCQFVkeEse1YGshHQ): Learn how to mint your own NFT!
