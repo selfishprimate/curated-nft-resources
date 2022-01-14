@@ -22,6 +22,7 @@ _The best marketplaces for you to create and sell your NFT arts!_
 - [OpenSea](https://opensea.io/): Discover, collect, and sell extraordinary NFTs.
 - [Rarible](https://rarible.com/): NFT marketplace where anything is possible and all are welcome.
 - [Sandbox](https://www.sandbox.game/en/shop/): Here you can search and buy creator's ASSETS with SAND to incorporate them into your LAND!
+- [Showtime](https://showtime.io/): Showtime is a social media platform where you can buy or sell NFTs.
 - [Solanart](https://solanart.io/): Lock Bold Badgers and lower your fees!
 - [SolSea](https://solsea.io/): The Open NFT Marketplace on Solana!
 - [SuperRare](https://superrare.com/): Buy and sell NFTs from the world’s top artists.
@@ -70,10 +71,13 @@ _Various useful resources on NFTs!_
 
 ## Tools
 
+- [Check My NFT](https://checkmynft.com/): Enter your NFT contract address & token ID to see the strength of your NFT’s assets.
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
 - [Moralis](https://moralis.io/): Join 65,000+ blockchain projects that use Moralis software and APIs to build & scale their dApps without the cost & complexity.
+- [NFT Price Floor](https://nftpricefloor.com/): Track price floors, trading and sales volumes etc.
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
-- [NiftyKit](https://niftykit.com/): The No-Code Solution For NFT Smart Contracts
+- [NiftyKit](https://niftykit.com/): The no-code solution for NFT smart contracts.
+- [Studio 721](https://www.721.so/): A free all-in-one tool for creating custom smart contracts.
 
 ## How to Create an NFT Collection?
 
