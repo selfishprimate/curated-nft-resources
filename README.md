@@ -13,6 +13,7 @@ _A list of articles to learn everything about NFTs!_
 
 _The best marketplaces for you to create and sell your NFT arts!_
 
+- [AIRNFTS](https://www.airnfts.com/): NFT Marketplace built on BSC and Polygon!
 - [Binance NFT](https://www.binance.com/en/nft/home): Beyond operating the world's leading cryptocurrency exchange, Binance spans an entire ecosystem.
 - [Foundation](https://foundation.app/): Foundation is a platform that aims to build a new creative economy—a world where creators can use the Ethereum blockchain to value their work in entirely new ways, and build stronger connections with their supporters.
 - [Magic Eden](https://magiceden.io/): A simple process to create and sell your NFTs.
