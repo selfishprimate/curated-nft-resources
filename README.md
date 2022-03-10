@@ -79,6 +79,7 @@ _Various useful resources on NFTs!_
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
 - [NiftyKit](https://niftykit.com/): The no-code solution for NFT smart contracts.
 - [Studio 721](https://www.721.so/): A free all-in-one tool for creating custom smart contracts.
+- [NFT Blipper](https://nftblipper.com/): Link sharing / social bookmarking site for NFT topics.
 
 ## How to Create an NFT Collection?
 
