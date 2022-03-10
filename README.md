@@ -75,6 +75,7 @@ _Various useful resources on NFTs!_
 - [Check My NFT](https://checkmynft.com/): Enter your NFT contract address & token ID to see the strength of your NFT’s assets.
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
 - [Moralis](https://moralis.io/): Join 65,000+ blockchain projects that use Moralis software and APIs to build & scale their dApps without the cost & complexity.
+- [NFT Blipper](https://nftblipper.com/): Link sharing / social bookmarking site for NFT topics.
 - [NFT Price Floor](https://nftpricefloor.com/): Track price floors, trading and sales volumes etc.
 - [Nifty Generator](https://www.niftygenerator.xyz/): Generate your NFT collection with no code.
 - [NiftyKit](https://niftykit.com/): The no-code solution for NFT smart contracts.
