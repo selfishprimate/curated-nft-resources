@@ -88,5 +88,5 @@ _Various useful resources on NFTs!_
 
 - [How to Create a Full NFT Collection: Step by Step](https://www.nft-innovation.com/post/how-to-create-an-nft-collection-step-by-step): NFTs are booming right now with new artists and pieces coming into the space daily.
 - [How to Create and Mint Your Own NFT: The Complete Guide](https://www.uxsequence.io/learn/article/guide-to-making-your-own-nft/): This guide will set you on your way to creating the next Bored Ape Yacht Club!
-- [How to Generate and NFT Collection in 10 Minutes](https://www.youtube.com/watch?v=ZSa8_MHK5zU): With AutoMinter, you can generate large NFT collections by uploading image layers, allowing people to mint your NFTs and sell them on secondary marketplaces like OpenSea.
+- [How to Generate an NFT Collection in 10 Minutes](https://www.youtube.com/watch?v=ZSa8_MHK5zU): With AutoMinter, you can generate large NFT collections by uploading image layers, allowing people to mint your NFTs and sell them on secondary marketplaces like OpenSea.
 - [How to Make an NFT Collection (10,000 Pieces)](https://peerthroughmedia.com/how-to-make-nft-collection/): I am going to outline my own in-process launch for my 10,000 NFT collection – No Fun Toads – as a case study.
