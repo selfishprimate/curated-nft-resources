@@ -20,6 +20,7 @@ _The best marketplaces for you to create and sell your NFT arts!_
 - [Mintable](https://mintable.app/): Turn anything into an item on the blockchain.
 - [NFT Prime](https://nftprime.com/): Discover, Collect and Sell NFTs.
 - [Nifty Gateway](https://niftygateway.com/): Nifty Gateway was founded with a very simple mission - to make Nifties accessible to everyone.
+- [Okimoto](https://okimoto.io/): Okimoto the most advanced decentralised non-fungible token exchange on the Zilliqa blockchain.
 - [OpenSea](https://opensea.io/): Discover, collect, and sell extraordinary NFTs.
 - [Rarible](https://rarible.com/): NFT marketplace where anything is possible and all are welcome.
 - [Sandbox](https://www.sandbox.game/en/shop/): Here you can search and buy creator's ASSETS with SAND to incorporate them into your LAND!
@@ -29,6 +30,7 @@ _The best marketplaces for you to create and sell your NFT arts!_
 - [SuperRare](https://superrare.com/): Buy and sell NFTs from the world’s top artists.
 - [Starly](https://starly.io/): Be the first to know about upcoming drops!
 - [Treasureland](https://treasureland.market/): Treasureland is a multi-chain NFT aggregation protocol that supports NFT mint, issuance, auction, and socialization.
+- [ZILSTARS](https://football.zilstars.com/): ZILSTARS is a custom marketplace designed and built specifically for Zilliqa’s one-of-a-kind NFT project with 10 incredible football stars, in conjunction with athlete commercial rights representation firm Polaris.
 
 ## YouTube Channels
 
