@@ -75,7 +75,7 @@ _Various useful resources on NFTs!_
 ## Tools
 
 - [Autominter](https://www.autominter.com/): The easiest way to create NFT collectibles on the blockchain.
-- [Check My NFT](https://checkmynft.com/): Enter your NFT contract address & token ID to see the strength of your NFT’s assets.
+- [Beyond Rarity](https://www.beyondrarity.com/): The best NFT rarity tool combining raw statistics with human sentiment.
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
 - [Moralis](https://moralis.io/): Join 65,000+ blockchain projects that use Moralis software and APIs to build & scale their dApps without the cost & complexity.
 - [NFT Blipper](https://nftblipper.com/): Link sharing / social bookmarking site for NFT topics.
