@@ -18,6 +18,7 @@ _The best marketplaces for you to create and sell your NFT arts!_
 - [Foundation](https://foundation.app/): Foundation is a platform that aims to build a new creative economy—a world where creators can use the Ethereum blockchain to value their work in entirely new ways, and build stronger connections with their supporters.
 - [Magic Eden](https://magiceden.io/): A simple process to create and sell your NFTs.
 - [Mintable](https://mintable.app/): Turn anything into an item on the blockchain.
+- [NeftyBlocks](https://neftyblocks.com/): NeftyBlocks is the number one trade to Earn marketplace for buying, selling and creating digital collectibles.
 - [NFT Prime](https://nftprime.com/): Discover, Collect and Sell NFTs.
 - [Nifty Gateway](https://niftygateway.com/): Nifty Gateway was founded with a very simple mission - to make Nifties accessible to everyone.
 - [Okimoto](https://okimoto.io/): Okimoto the most advanced decentralised non-fungible token exchange on the Zilliqa blockchain.
