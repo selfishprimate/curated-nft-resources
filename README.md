@@ -65,7 +65,7 @@ _The best podcast channels on NFTs!_
 - [Autominter](https://www.autominter.com/): The easiest way to create NFT collectibles on the blockchain.
 - [Beyond Rarity](https://www.beyondrarity.com/): The best NFT rarity tool combining raw statistics with human sentiment.
 - [Hardhat](https://hardhat.org/): Ethereum development environment for professionals.
-- [Highlight](https://highlight.xyz/): Creator tools for Web3
+- [Highlight](https://highlight.xyz/): We help web3 creators drop NFT collections, build token-gated experiences, and engage collectors across any web3 project.
 - [Moralis](https://moralis.io/): Join 65,000+ blockchain projects that use Moralis software and APIs to build & scale their dApps without the cost & complexity.
 - [NFT Blipper](https://nftblipper.com/): Link sharing / social bookmarking site for NFT topics.
 - [NFT Price Floor](https://nftpricefloor.com/): Track price floors, trading and sales volumes etc.
